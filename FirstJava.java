@@ -1,5 +1,5 @@
 public class FirstJava {
     public static void main(String[] args) {
-        System.out.println("リュウトウキン1225!");
+        System.out.println("リュウトウキン");
     }
 }
